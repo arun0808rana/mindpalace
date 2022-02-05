@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mindpalace/static/css/main.b2f2da6c.css",
+    "main.js": "/mindpalace/static/js/main.6d81d17c.js",
+    "static/js/787.98219069.chunk.js": "/mindpalace/static/js/787.98219069.chunk.js",
+    "static/media/logo.svg": "/mindpalace/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/bx_bxl-heroku.svg": "/mindpalace/static/media/bx_bxl-heroku.470ac3d92e7888eb2053a99d0acab91b.svg",
+    "static/media/bx_bxl-github.svg": "/mindpalace/static/media/bx_bxl-github.3ff3b48bb1bfac67529675d19020a7e0.svg",
+    "index.html": "/mindpalace/index.html",
+    "static/media/bx_bx-dots-vertical-rounded.svg": "/mindpalace/static/media/bx_bx-dots-vertical-rounded.592601b88e196db13f876031deb3f6af.svg",
+    "main.b2f2da6c.css.map": "/mindpalace/static/css/main.b2f2da6c.css.map",
+    "main.6d81d17c.js.map": "/mindpalace/static/js/main.6d81d17c.js.map",
+    "787.98219069.chunk.js.map": "/mindpalace/static/js/787.98219069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2f2da6c.css",
+    "static/js/main.6d81d17c.js"
+  ]
+}
